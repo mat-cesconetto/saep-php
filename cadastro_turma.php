@@ -88,7 +88,7 @@ if(isset($_POST['cadastrar'])) {
 </head>
 <body>
     <div class="container">
-        <h2>Cadastrar Nova Turma</h2>
+        <h2>Cadastrar Novas Turmas</h2>
         <form method="POST">
             <div class="form-group">
                 <input type="text" name="nome" placeholder="Nome da Turma" required>
